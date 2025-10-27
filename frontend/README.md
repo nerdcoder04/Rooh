@@ -20,10 +20,9 @@ npm run preview
 
 ## Features
 
-- User Authentication (Sign Up / Sign In)
 - Prakriti Assessment
 - Personalized Results Dashboard
-- Diet Recommendations
+- Diet Recommendations 
 - Daily Routine Guide
 
 ## Tech Stack
@@ -35,18 +34,6 @@ npm run preview
 - Tailwind CSS
 - React Router
 - React Hook Form
-
-## Project Structure
-
-```
-src/
-├── components/     # React components
-├── pages/          # Page components
-├── types/          # TypeScript types
-├── hooks/          # Custom React hooks
-├── data/           # Static data
-└── lib/            # Utility functions
-```
 
 ## Routes
 
