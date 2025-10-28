@@ -45,6 +45,14 @@ To create an intuitive digital platform that enables users to:
 
 ---
 
+## User Flow Diagram
+Below is the simplified user journey:
+
+<img width="646" height="1571" alt="Userflow" src="https://github.com/user-attachments/assets/200a8ed4-8ff6-4043-b648-374aab538a15" />
+
+
+---
+
 ## Tech Stack
 
 | Layer | Technology Used |
@@ -80,7 +88,7 @@ To create an intuitive digital platform that enables users to:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Habit & Progress Tracking Dashboard  
 - Practitioner / Consultation Portal  
@@ -90,7 +98,7 @@ To create an intuitive digital platform that enables users to:
 
 ---
 
-## 🛠️ Developer Setup
+## Developer Setup
 
 ```bash
 # Clone repository
@@ -98,6 +106,7 @@ git clone https://github.com/<your-username>/Rooh.git
 
 # Navigate to project
 cd Rooh
+cd frontend
 
 # Install dependencies
 npm install
@@ -115,4 +124,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For inquiries or contributions, please contact us via [GitHub Issues](https://github.com/Angat-Shah/Aroha/issues).
+For inquiries or contributions, please contact us via [GitHub Issues](https://github.com/nerdcoder04/Rooh/issues).
